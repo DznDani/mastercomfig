@@ -1,5 +1,5 @@
 ---
-description: Find out how you can get help with mastercomfig.
+descripción: Descubre como puedes obtener ayuda para mastercomfig.
 ...
 
 # Ayuda
